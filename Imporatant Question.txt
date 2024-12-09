@@ -1,0 +1,27 @@
+🔢 Explain the concept of normalization in databases and its importance.
+🔑 Discuss the difference between a primary key and a foreign key.
+🚀 Explain the Order of Execution of an SQL query.
+📊 Provide a use case for each of the functions Rank, Dense_Rank, & Row_Number.
+📈 Write a query to find the cumulative sum/Running Total.
+🥇 Find the Most selling product by sales/highest Salary of employees.
+🏅 Write a query to find the 2nd/nth highest Salary of employees.
+⚖️ Explain the difference between UNION and UNION ALL.
+🕵️ Identify if there are any duplicates in a table.
+🔗 Describe scenario-based join questions to understand Inner, Left, and Outer Joins.
+📉 Use LAG to find records where the transaction value is greater than the previous.
+🏆 Compare Rank vs Dense Rank for finding the 2nd highest Salary, handling ties.
+🌐 Discuss the significance of database indexes and their types.
+❌ Compare and contrast DELETE vs DROP commands in SQL.
+💼 Write a query to calculate the average salary of employees by department.
+📚 Explain the importance of database normalization in data management.
+🤔 Describe the difference between WHERE and HAVING clauses in SQL.
+🔄 Explain the concept of a correlated subquery with an example.
+👀 Explain the concept of database views and their uses in SQL.
+📜 Write a query to display year-on-year/month-on-month growth.
+🗓️ Write a query to find the rolling average of daily sign-ups.
+🔄 Write a query to find the running difference using self-join.
+📌 Explain the role and use of the CASE statement in SQL queries.
+🔄 Write a query to find the cumulative sum using self-join.
+📊 Discuss the advantages of window functions in SQL and provide examples.
+🛠️ Describe the concept of stored procedures and their advantages.
+🔄 Compare and contrast the INNER JOIN and OUTER JOIN clauses in SQL.
